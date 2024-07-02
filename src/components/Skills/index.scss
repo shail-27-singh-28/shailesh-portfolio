@@ -1,0 +1,99 @@
+.skills-page {
+   max-width: 1200px;
+   margin: auto;
+   padding: 20px;
+  
+   
+
+   .text-zone {
+     margin: 0;
+     padding: 0;
+
+     
+     @media (max-width: 768px) {
+       width: 70%;
+       left: 15%;
+       margin-top:-300px;
+     }
+ 
+     @media (max-width: 480px) {
+      
+       width: 68%;
+       left: 20%;
+       margin-top:-280px;
+     }
+   }
+ }
+ 
+ 
+ .info-card {
+   display: flex;
+   flex-wrap: wrap;
+   margin-top: 100px;
+   width: 90%;
+   gap: 40px;
+   justify-content: center;
+   margin-left: 500px;
+
+ 
+ 
+   @media (max-width: 768px) {
+     left: 20%;
+     margin-top: 170px;
+     width: 70%;
+     gap: 10px;
+     height: auto;
+     margin-left: 90px;
+ 
+ 
+   }
+ 
+   @media (max-width: 480px) {
+     left: 20%;
+     margin-top: 200px;
+     width: 60%;
+     gap: 8px;
+     height: auto;
+     margin-left: 90px;
+   }
+ }
+
+
+ .skill-card {
+   background-color: #fff;
+   border: 1px solid #ddd;
+   border-radius: 5px;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+   padding: 20px;
+   flex: 1 1 calc(33.333% - 40px);
+   max-width: calc(33.333% - 40px);
+   transition: transform 0.3s;
+  
+ 
+   @media (max-width: 768px) {
+     left: 20%;
+     top: 78%;
+     width: 50%;
+     height: auto;
+     padding: 10px;
+     font-size: 10px;
+     flex: 1 1 100%;
+     max-width: 100%;
+ 
+   }
+ 
+   @media (max-width: 480px) {
+       left: 27%;
+       top: 86%;
+       width: 50%;
+       height: auto;
+       padding: 10px;
+       font-size: 8px;
+   }
+   &:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 5px 15px rgb(245, 201, 7);
+    background-color: rgba(71, 196, 210, 0.695);
+  }
+
+ }

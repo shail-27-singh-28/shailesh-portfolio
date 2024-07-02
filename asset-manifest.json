@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shailesh-portfolio/static/css/main.83ccd629.css",
+    "main.js": "/shailesh-portfolio/static/js/main.afecbfe8.js",
+    "static/js/453.c9c35973.chunk.js": "/shailesh-portfolio/static/js/453.c9c35973.chunk.js",
+    "static/media/logo_sub.png": "/shailesh-portfolio/static/media/logo_sub.2d35a9ee5cbbac29f618.png",
+    "static/media/helvetica-neu.ttf": "/shailesh-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/shailesh-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/shailesh-portfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/shailesh-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/shailesh-portfolio/index.html",
+    "main.83ccd629.css.map": "/shailesh-portfolio/static/css/main.83ccd629.css.map",
+    "main.afecbfe8.js.map": "/shailesh-portfolio/static/js/main.afecbfe8.js.map",
+    "453.c9c35973.chunk.js.map": "/shailesh-portfolio/static/js/453.c9c35973.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ccd629.css",
+    "static/js/main.afecbfe8.js"
+  ]
+}
